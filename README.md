@@ -4,9 +4,10 @@ Multi-phase CFD solver for activated sludge process
 ## Description
 This solver is an implementation of activated sludge model (ASM1) model  in OpenFOAM. 
 - First-order time splitting for transport and reaction (for now)
-- Stiff ODE solver for 13 reaction
+- Stiff ODE solver for 8 biological processes
 
-Here is an example 
+Here is an example (need to update)
+
 
 ## Prerequisites
 OpenFOAM-v1912
